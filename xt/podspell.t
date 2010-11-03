@@ -20,6 +20,8 @@ __DATA__
 gfx
 gfuji@cpan.org
 Text::Tera
+Xslate
+Jinja
 
 # computer terms
 API
