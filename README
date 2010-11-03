@@ -1,0 +1,35 @@
+This is Perl module Text::Tera.
+
+INSTALLATION
+
+Install cpanm (App::cpanminus) and then run the following command to install
+Text::Tera:
+
+    $ cpanm Text::Tera
+
+If you get an archive of this distribution, unpack it and build it
+as per the usual:
+
+    $ tar xzf Text-Tera-$version.tar.gz
+    $ cd Text-Tera-$version
+    $ perl Makefile.PL
+    $ make && make test
+
+Then install it:
+
+    $ make install
+
+DOCUMENTATION
+
+Text::Tera documentation is available as in POD. So you can do:
+
+    $ perldoc Text::Tera
+
+to read the documentation online with your favorite pager.
+
+LICENSE AND COPYRIGHT
+
+Copyright (c) 2010, gfx. All rights reserved.
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.
